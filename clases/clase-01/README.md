@@ -52,4 +52,7 @@ Si algún enlace no abre desde tu visor, podés navegar manualmente a la carpeta
 ## Recomendación del profe
 
 Tomar la **chuleta de Bash** y jugar en casa con los comandos.  
+
+![alt text](assets/image-2.png)
+
 La práctica corta y frecuente ayuda mucho a ganar soltura en terminal.
