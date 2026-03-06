@@ -12,6 +12,20 @@
 - [Clase 1.1 - Computadoras y lenguajes](./material/Clase%201.1%20Computadoras%20y%20lenguajes.pdf)
 - [Clase 1.2 - Introducción a linux y bash](./material/Clase%201.2%20Introducci%C3%B3n%20a%20linux%20y%20bash.pdf)
 
+## Scripts
+
+En la clase hicimos nuestro primer script en Python, completando el ciclo de la definición de computadora: **entrada, procesamiento y salida**.
+
+![alt text](assets/image.png)
+
+- Archivo: [`scripts/primer-script.py`](./scripts/primer-script.py)
+
+```python
+nombre = input("¿Cual es tu nombre? ") # Entrada
+mensaje = "Hola! Bienvenido " + nombre # Procesamiento
+print(mensaje) # Salida
+```
+
 ## Tarea de la clase
 
 1. Crear una cuenta en [GitHub](https://github.com/).
