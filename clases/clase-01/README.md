@@ -33,6 +33,7 @@ print(mensaje) # Salida
 3. Instalar WSL en Windows:
    - Guía oficial: [Instalación de WSL | Microsoft Learn](https://learn.microsoft.com/es-es/windows/wsl/install)
    - Referencia rápida: en PowerShell (como administrador), ejecutar `wsl --install`
+4. Una vez instalado WSL o Git Bash, realizar la filimina "Jugando con la terminal Parte de 2" de la [clase 1.2](./material/Clase%201.2%20Introducci%C3%B3n%20a%20linux%20y%20bash.pdf).
 
 ## Opción alternativa a WSL
 
