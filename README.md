@@ -30,6 +30,11 @@ Acá se va a publicar, clase a clase:
 > Esta sección se irá completando a medida que avance la cursada.
 
 - [Clase 01](./clases/clase-01/)
+- [Clase 02](./clases/clase-02/)
+
+## Trabajos prácticos
+
+- [Mini TP 1 - Variables y tipos de datos](./clases/clase-02/mini-tp-01-variables-y-tipos-de-datos.md)
 
 ## Sugerencia de uso
 
