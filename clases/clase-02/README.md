@@ -23,4 +23,4 @@
 
 ## Recomendacion del profe
 
-Hacer este TP les va a dar la base para todo lo que sigue en la materia. Si le dedican un rato ahora a practicar variables, tipos de datos y entrada/salida, despues los programas mas largos les van a resultar mucho mas faciles de entender y resolver.
+Hacer este TP les va a dar la base para todo lo que sigue en la materia. Si le dedican un rato ahora a practicar variablesy tipos de datos, despues los programas mas largos les van a resultar mucho mas faciles de entender y resolver.
