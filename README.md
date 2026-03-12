@@ -34,7 +34,7 @@ Acá se va a publicar, clase a clase:
 
 ## Trabajos prácticos
 
-- [Mini TP 1 - Variables y tipos de datos](./clases/clase-02/mini-tp-01-variables-y-tipos-de-datos.md)
+- [Mini TP 1 - Variables y tipos de datos](./clases/clase-02/tareas/mini-tp-01-variables-y-tipos-de-datos.md)
 
 ## Sugerencia de uso
 

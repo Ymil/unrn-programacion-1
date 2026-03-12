@@ -13,13 +13,13 @@
 
 ## Trabajos practicos
 
-- [Mini TP 1 - Variables y tipos de datos](./mini-tp-01-variables-y-tipos-de-datos.md)
+- [Mini TP 1 - Variables y tipos de datos](./tareas/mini-tp-01-variables-y-tipos-de-datos.md)
 
 ## Tarea de la clase
 
 1. Completar la tarea de la clase 1.
 2. Instalar Python.
-3. Realizar los ejercicios del [Mini TP 1 - Variables y tipos de datos](./mini-tp-01-variables-y-tipos-de-datos.md).
+3. Realizar los ejercicios del [Mini TP 1 - Variables y tipos de datos](./tareas/mini-tp-01-variables-y-tipos-de-datos.md).
 
 ## Recomendacion del profe
 
