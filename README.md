@@ -9,6 +9,10 @@
 
 Este repositorio es el espacio central de la cursada para compartir clases, actividades y material de apoyo.
 
+## 📢 Importante
+
+El 18 de marzo habrá clase con normalidad.
+
 ## Datos de cursada
 
 | Ítem | Información |
