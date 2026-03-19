@@ -22,6 +22,18 @@
 2. Resolver el [Mini TP 2 - Decisiones y logica en Python](./recursos/mini_tp_2_programacion_1.md).
 3. Probar variantes de los ejemplos vistos en clase cambiando condiciones, datos de entrada y recorridos con `for`.
 
+### De ser posible
+
+Ver el siguiente video:
+
+- [Video recomendado](https://youtu.be/V-Z-3V8yXZg)
+
+Luego de verlo:
+
+- Crear un repositorio en GitHub llamado `unrn-programacion-1`.
+- Crear una carpeta para la materia y, dentro de ella, una carpeta por clase con los archivos que fueron armando durante cada encuentro.
+- Subir a GitHub el material trabajado.
+
 ## Recomendacion del profe
 
 En esta parte de la materia conviene frenar un poco y leer cada condicion en voz alta. Si entienden bien cuando usar `if`, `elif`, `else`, `and`, `or` y los primeros `for`, despues escribir programas mas largos se vuelve mucho mas natural.
