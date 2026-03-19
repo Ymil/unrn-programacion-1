@@ -9,10 +9,6 @@
 
 Este repositorio es el espacio central de la cursada para compartir clases, actividades y material de apoyo.
 
-## 📢 Importante
-
-El 18 de marzo habrá clase con normalidad.
-
 ## Datos de cursada
 
 | Ítem | Información |
@@ -35,10 +31,12 @@ Acá se va a publicar, clase a clase:
 
 - [Clase 01](./clases/clase-01/)
 - [Clase 02](./clases/clase-02/)
+- [Clase 03](./clases/clase-03/)
 
 ## Trabajos prácticos
 
 - [Mini TP 1 - Variables y tipos de datos](./clases/clase-02/tareas/mini-tp-01-variables-y-tipos-de-datos.md)
+- [Mini TP 2 - Decisiones y lógica en Python](./clases/clase-03/recursos/mini_tp_2_programacion_1.md)
 
 ## Sugerencia de uso
 
