@@ -32,11 +32,13 @@ Acá se va a publicar, clase a clase:
 - [Clase 01](./clases/clase-01/)
 - [Clase 02](./clases/clase-02/)
 - [Clase 03](./clases/clase-03/)
+- [Clase 04](./clases/clase-04/)
 
 ## Trabajos prácticos
 
 - [Mini TP 1 - Variables y tipos de datos](./clases/clase-02/tareas/mini-tp-01-variables-y-tipos-de-datos.md)
 - [Mini TP 2 - Decisiones y lógica en Python](./clases/clase-03/recursos/mini_tp_2_programacion_1.md)
+- [Mini TP 3 - While y listas](./clases/clase-04/recursos/mini_tp_3_programacion_1.md)
 
 ## Sugerencia de uso
 
