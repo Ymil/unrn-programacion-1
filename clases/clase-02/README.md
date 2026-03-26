@@ -11,7 +11,7 @@
 
 - [Clase 2.0 - Interpretes variables y tipos de datos](./material/Clase%202.0%20-%20Interpretes%20variables%20y%20tipos%20de%20datos.pdf)
 
-## Trabajos practicos
+## Ejercicios
 
 - [Mini TP 1 - Variables y tipos de datos](./tareas/mini-tp-01-variables-y-tipos-de-datos.md)
 

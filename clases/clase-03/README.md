@@ -12,7 +12,7 @@
 
 - [Clase 3.0 - Condicionales e iteradores](./material/Clase%203.0%20-%20Condicionales%20e%20iteradores-1.pdf)
 
-## Trabajos practicos
+## Ejercicios
 
 - [Mini TP 2 - Decisiones y logica en Python](./recursos/mini_tp_2_programacion_1.md)
 

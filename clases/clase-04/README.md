@@ -17,7 +17,7 @@
 - [Ejercicio con while](./scripts/ejercicio_while.py)
 - [Ejercicio recorriendo listas](./scripts/ejercicio_recorriendo_listas.py)
 
-## Trabajos practicos
+## Ejercicios
 
 - [Mini TP 3 - While y listas](./recursos/mini_tp_3_programacion_1.md)
 
@@ -25,5 +25,4 @@
 
 1. Repasar el PDF de la clase.
 3. Resolver el [Mini TP 3 - While y listas](./recursos/mini_tp_3_programacion_1.md).
-2. Probar los ejemplos de `while` y listas cambiando datos y condiciones.
-4. Resolver la tarea de la ultima filia del PDF.
+4. Resolver la consigna de la ultima filmina del PDF.
