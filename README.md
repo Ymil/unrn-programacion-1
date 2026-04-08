@@ -9,6 +9,10 @@
 
 Este repositorio es el espacio central de la cursada para compartir clases, actividades y material de apoyo.
 
+## Link clase 8/4
+
+[Unirse a zoom](https://us04web.zoom.us/j/2074527652?pwd=7Yfb7CwIfvyVb0ZD0RbC5dbunTuZef.1)
+
 ## Datos de cursada
 
 | Ítem | Información |
