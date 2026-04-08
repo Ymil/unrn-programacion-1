@@ -11,8 +11,8 @@ Este repositorio es el espacio central de la cursada para compartir clases, acti
 
 ## Link clase 8/4
 
-[Unirse a zoom](https://us04web.zoom.us/j/2074527652?pwd=7Yfb7CwIfvyVb0ZD0RbC5dbunTuZef.1)
-Sumo link de google meet por si alguien tiene problemas con el zoom: https://meet.google.com/zva-ehsr-mnv
+- Link de zoom: [Unirse a zoom](https://us04web.zoom.us/j/2074527652?pwd=7Yfb7CwIfvyVb0ZD0RbC5dbunTuZef.1)
+- Sumo link de google meet por si alguien tiene problemas con el zoom: https://meet.google.com/zva-ehsr-mnv
 
 ## Datos de cursada
 
