@@ -9,10 +9,9 @@
 
 Este repositorio es el espacio central de la cursada para compartir clases, actividades y material de apoyo.
 
-## Link clase 8/4
+## Link clase   14/4
 
-- Link de zoom: [Unirse a zoom](https://us04web.zoom.us/j/2074527652?pwd=7Yfb7CwIfvyVb0ZD0RbC5dbunTuZef.1)
-- Sumo link de google meet por si alguien tiene problemas con el zoom: https://meet.google.com/zva-ehsr-mnv
+- link de google meet: https://meet.google.com/fkd-nogq-qwh
 
 ## Datos de cursada
 
