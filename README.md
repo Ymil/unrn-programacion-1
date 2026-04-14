@@ -9,7 +9,7 @@
 
 Este repositorio es el espacio central de la cursada para compartir clases, actividades y material de apoyo.
 
-## Link clase   14/4
+## Link clase   15/4
 
 - link de google meet: https://meet.google.com/fkd-nogq-qwh
 
