@@ -11,6 +11,10 @@
 - Repaso de funciones, parametros y valores de retorno.
 - Entrada de datos con `input` y corte de repeticion con `while`.
 
+## Material (PDF)
+
+- [Clase 6.0 - Ejercicios](./material/Clase%206.0%20-%20Ejercicios.pdf)
+
 ## Codigo visto en clase
 
 - [Ejercicio 1 - Tipos de datos basicos](./scripts/ejercicio1.py)
