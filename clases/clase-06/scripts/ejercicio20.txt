@@ -1,0 +1,2 @@
+codigo 1> Recorre la lista y suma el total de elementos. Imprime el resultado.
+codigo 2> Devuelve la cantidad de numeros positivos.
