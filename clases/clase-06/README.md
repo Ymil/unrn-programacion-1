@@ -35,8 +35,6 @@ Responder en este mismo documento.
 
 ## Tarea de la clase
 
-5. Completar el [TP de practica sin Python](./recursos/practica_sin_python.docx).
+1. Realizar los ejercicios del PDF y guardar en github.
+1. Completar el [TP de practica sin Python](./recursos/practica_sin_python.docx).
 
-## Recomendacion del profe
-
-Cuando un ejercicio recorre una lista, conviene identificar primero que se quiere guardar mientras avanza el recorrido: una suma, una cantidad, un maximo, un minimo o una nueva lista filtrada. Esa pregunta suele ordenar mucho el codigo antes de escribirlo.
