@@ -26,9 +26,9 @@
 - [Ejercicio 8 - Ingreso de numeros y productos](./scripts/ejercicio8.py)
 - [Ejercicio 20 - Lectura de codigo](./scripts/ejercicio20.txt)
 
-## Guia de ejercicios
+## TP
 
-- [Practica sin Python](./recursos/practica_sin_python.docx)
+- [Practica sin Python](./recursos/practica_programacion.md)
 
 **REGLA:** No utilizar python para realizar estos ejerciciós, el parcial sera en papel y no habra ayuda del interprete.  
 Responder en este mismo documento.
@@ -36,5 +36,5 @@ Responder en este mismo documento.
 ## Tarea de la clase
 
 1. Realizar los ejercicios del PDF y guardar en github.
-1. Completar el [TP de practica sin Python](./recursos/practica_sin_python.docx).
+2. Completar el [TP de practica sin Python](./recursos/practica_programacion.md).
 
