@@ -39,6 +39,7 @@ Acá se va a publicar, clase a clase:
 - [Clase 04](./clases/clase-04/)
 - [Clase 05](./clases/clase-05/)
 - [Clase 06](./clases/clase-06/)
+- [Clase 07](./clases/clase-07/)
 
 ## Ejercicios
 
@@ -47,6 +48,7 @@ Acá se va a publicar, clase a clase:
 - [Mini TP 3 - While y listas](./clases/clase-04/recursos/mini_tp_3_programacion_1.md)
 - [Mini TP 4 - Funciones y modulos](./clases/clase-05/recursos/mini_tp_4_funciones_y_modulos.md)
 - [TP Clase 6 - Practica sin Python](./clases/clase-06/recursos/practica_programacion.md)
+- [Guia de ejercicios - Clase 7](./clases/clase-07/material/Clase%207.0%20-%20Ejercicios.pdf)
 
 
 ## Sugerencia de uso
