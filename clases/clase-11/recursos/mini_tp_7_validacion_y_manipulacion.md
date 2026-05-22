@@ -4,7 +4,7 @@ El objetivo de esta guia es practicar como validar y manipular datos como vimos 
 La entrega se debe realizar subiendo la resolución de los ejercicios en el repositorio de github y comentando la dicusión.
 
 - Es obligatoria.
-- No usar inteligencia artificial para resolverla, se vale google o el PDF.
+- No usar inteligencia artificial para resolverla.
 - Guardar cada ejercicio practico en un archivo separado.
 
 ## Ejercicio 1 - Algunas preguntas
