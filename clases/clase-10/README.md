@@ -6,7 +6,6 @@
 - Lectura y escritura de archivos de texto.
 - Modos de apertura (`r`, `w`, `a`).
 - Archivos CSV.
-- Argumentos por linea de comandos.
 - Organizacion de entradas y salidas en carpetas.
 
 ## Estructura de la clase
