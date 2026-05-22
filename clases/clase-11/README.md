@@ -7,11 +7,6 @@
 - Recorrido y transformacion de datos.
 - Slicing de listas.
 
-## Estructura de la clase
-
-- `material/`: presentacion usada en clase.
-- `recursos/`: guia obligatoria
-
 ## Material (PDF)
 
 - [Clase 11.0 - Manipulando y validando datos + Slicing de listas](./material/Clase%2011.0%20-%20Manipulando%20y%20validando%20datos%20+%20Slicing%20de%20listas.pdf)
