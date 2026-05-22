@@ -86,7 +86,7 @@ El programa tiene que validar que:
 - la parte de la izquierda tenga solo letras;
 - la parte de la derecha tenga solo numeros.
 
-Si el codigo es valido, mostrarlo normalizado en mayusculas.
+Si el codigo es valido, mostrarlo normalizado en mayusculas (metodo `upper`).
 
 Ejemplo:
 
