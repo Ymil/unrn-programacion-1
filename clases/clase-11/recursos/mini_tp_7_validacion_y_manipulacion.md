@@ -2,7 +2,7 @@
 
 El objetivo de esta guia es practicar como validar y manipular datos como vimos en la clase 11.
 
-La entrega se debe realizar subiendo la resolución de los ejercicios en el repositorio de github y comentando la aquí: https://campusbimodal.unrn.edu.ar/mod/forum/discuss.php?d=241566.
+La entrega se debe realizar subiendo la resolución de los ejercicios en el repositorio de github y comentando la aquí: [https://campusbimodal.unrn.edu.ar/mod/forum/discuss.php?d=241566.](https://campusbimodal.unrn.edu.ar/mod/forum/discuss.php?d=241997).
 
 - Es obligatoria.
 - No usar inteligencia artificial para resolverla.
