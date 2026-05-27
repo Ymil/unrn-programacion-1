@@ -1,5 +1,16 @@
 # De consignas a texto
 
+De las siguientes consignas responder:
+
+1. ¿Cuales son los datos de entrada?
+2. ¿Qué resultado debe salir?
+3. ¿Qué estructuras necesito?
+5. ¿Qué validación mínima haría?
+6. ¿Qué caso puede romper el programa?
+
+
+----
+
 EJ1: Un sensor registra eventos con este formato:
 ```
 "PUERTA_A;ABIERTA;18:03"
