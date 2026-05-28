@@ -9,10 +9,6 @@
 
 Este repositorio es el espacio central de la cursada para compartir clases, actividades y material de apoyo.
 
-## Clase 22/04 SE MUEVE AL 24/04
-
-- La clase de hoy se mueve al viernes 24/04 a las 10am en el siguiente link: https://meet.google.com/fkd-nogq-qwh
-
 ## Datos de cursada
 
 | Ítem | Información |
