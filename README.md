@@ -44,6 +44,7 @@ Acá se va a publicar, clase a clase:
 - [Clase 09](./clases/clase-09/)
 - [Clase 10](./clases/clase-10/)
 - [Clase 11](./clases/clase-11/)
+- [Clase 12](./clases/clase-12/)
 
 ## Ejercicios
 
