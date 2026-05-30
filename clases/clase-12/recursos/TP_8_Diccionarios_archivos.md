@@ -100,7 +100,7 @@ def es_valido(nombre):
         return True
     return False
 
-nombres = [" ana ", "LU", " pedro", "sol "]
+nombres = [" bart ", "ED", " walter", "rick "]
 validos = []
 
 for nombre in nombres:
