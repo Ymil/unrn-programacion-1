@@ -52,6 +52,7 @@ Acá se va a publicar, clase a clase:
 - [Mini TP 5 - Teoría y ejercicios básicos](./clases/clase-09/recursos/mini_tp_5_programacion_1.md)
 - [Mini TP 6 - Ejercicios intermedios e integradores](./clases/clase-09/recursos/mini_tp_6_programacion_1.md)
 - [Mini TP 7 - Validacion y manipulacion de datos **OBLIGATORIO**](./clases/clase-11/recursos/mini_tp_7_validacion_y_manipulacion.md)
+- [TP 8 - Diccionarios y archivos **OBLIGATORIO**](./clases/clase-12/recursos/TP_8_Diccionarios_archivos.md)
 
 
 ## Sugerencia de uso

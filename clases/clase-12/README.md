@@ -15,13 +15,14 @@
 - [Interpretando consignas](./recursos/interpretando-consignas.md)
 - [De consignas a texto](./recursos/texto-a-consignas.md)
 - [Tabla de funciones para manipulacion de strings](./recursos/tabla_funciones_string.md)
+- [TP 8 - Diccionarios y archivos **OBLIGATORIO**](./recursos/TP_8_Diccionarios_archivos.md)
 
 ## Tarea
 
 1. Repasar el PDF de la clase 12.
 2. Resolver los ejercicios del PDF y subir los resultados a sus githubs.
     1. El ejercicio de interpretación de consignas para hacer de forma grupal queda pendiente.
+3. Resolver el [TP 8 - Diccionarios y archivos](./recursos/TP_8_Diccionarios_archivos.md).
 
 ## Notas
 - Dejo el link al kahoot por si alguien le sirve de repaso: [Kahoot - Domina sets, listas y diccionarios en Python](https://create.kahoot.it/share/domina-sets-listas-y-diccionarios-en-python/e17b9863-b72a-401c-9784-d935799067ad)
-- Entre mañana y pasado voy a estar subiendo un TP de manejo de archivos.
