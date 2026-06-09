@@ -60,3 +60,9 @@ Acá se va a publicar, clase a clase:
 1. Revisar la clase antes de iniciar la práctica.
 2. Resolver ejercicios en orden (de menor a mayor dificultad).
 3. Registrar dudas para consulta en clase.
+
+## Material de comisión 2
+
+Dictada por **Tomás Manuel Guozden**.
+
+Link: https://github.com/tguozden/programacion_2026/
