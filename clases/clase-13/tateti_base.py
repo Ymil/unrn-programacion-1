@@ -33,7 +33,7 @@ def buscar_ganador(tablero):
 
 def cambiar_turno(turno_jugador):
     # Logica para cambiar de turno
-    pass
+    return turno_jugador
     
 imprimir_tablero(tablero) # Mostrar tablero vacío al principio
 
