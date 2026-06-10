@@ -10,6 +10,10 @@ tablero = [
 
 turno_jugador = JUGADOR_1
 
+def imprimir_tablero(tablero):
+    # Logica para imprimir tablero (FILITA POR FILITA)
+    pass
+
 def obtener_posicion():
     # Logica para solicitar datos al usuario (del 1 al 3)
     # Consejo: restar 1 aquí adentro para trabajar con índices 0, 1, 2
@@ -21,10 +25,6 @@ def validar_posicion(tablero, fila, columna):
 
 def asignar_posicion(tablero, fila, columna, jugador):
     # Logica para asignar un jugador a una posición
-    pass
-
-def imprimir_tablero(tablero):
-    # Logica para imprimir tablero (FILITA POR FILITA)
     pass
 
 def buscar_ganador(tablero):
