@@ -2,7 +2,7 @@
 marp: true
 theme: unrn-programacion
 size: 16:9
-paginate: false
+paginate: true
 ---
 
 <!-- _class: title -->

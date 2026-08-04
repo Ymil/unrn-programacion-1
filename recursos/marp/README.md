@@ -18,6 +18,18 @@ Exportar a PDF:
 npx @marp-team/marp-cli recursos/marp/clase-template.md --theme recursos/marp/unrn.css --allow-local-files --pdf -o clase.pdf
 ```
 
+Live preview:
+
+```bash
+npx @marp-team/marp-cli -s -I . --theme-set recursos/marp/unrn.css --html
+```
+
+Abrir la clase desde el navegador, por ejemplo:
+
+```text
+http://localhost:8080/clases/clase-14/material/clase-14.md
+```
+
 ## Diapositivas utiles
 
 - Portada: `<!-- _class: title -->`

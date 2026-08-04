@@ -127,6 +127,12 @@ section::after {
   font-size: 18px;
 }
 
+section::after {
+  bottom: 24px;
+  content: attr(data-marpit-pagination);
+  right: 34px;
+}
+
 footer {
   left: 52px;
   right: 52px;
@@ -186,6 +192,10 @@ section.title footer {
   display: none;
 }
 
+section.title::after {
+  content: none;
+}
+
 .unrn-logo {
   background: #fff;
   bottom: 40px;
@@ -236,6 +246,10 @@ section.inverse > h1:first-child {
 section.inverse strong,
 section.inverse h2 {
   color: #fff;
+}
+
+section.inverse::after {
+  color: rgba(255, 255, 255, 0.65);
 }
 
 section.compact {
