@@ -1,0 +1,5 @@
+{
+  "markdown.marp.themes": [
+    "./recursos/marp/unrn.css"
+  ]
+}

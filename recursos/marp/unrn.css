@@ -1,0 +1,257 @@
+/* @theme unrn-programacion */
+
+@import 'default';
+
+:root {
+  --unrn-navy: #30394f;
+  --unrn-ink: #07364d;
+  --unrn-text: #666a70;
+  --unrn-soft: #ead9c4;
+  --unrn-red: #b9130d;
+  --unrn-line: #d9dde3;
+}
+
+section {
+  background: linear-gradient(to bottom, var(--unrn-navy) 0 168px, #fff 168px 100%);
+  box-sizing: border-box;
+  color: var(--unrn-text);
+  display: block;
+  font-family: Aptos, "Segoe UI", Arial, sans-serif;
+  font-size: 30px;
+  line-height: 1.35;
+  overflow: hidden;
+  padding: 194px 52px 54px;
+  position: relative;
+}
+
+section::before {
+  content: none;
+}
+
+h1,
+h2 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+section > h1:first-child {
+  color: #fff;
+  font-size: 52px;
+  left: 52px;
+  line-height: 1.05;
+  margin: 0;
+  position: absolute;
+  right: 52px;
+  top: 52px;
+}
+
+h2 {
+  color: var(--unrn-ink);
+  font-size: 38px;
+  margin: 0 0 22px;
+}
+
+p {
+  margin: 0 0 28px;
+}
+
+strong {
+  color: #55595f;
+}
+
+ul,
+ol {
+  margin: 0 0 0 42px;
+  padding: 0;
+}
+
+li {
+  margin: 0 0 10px;
+}
+
+li::marker {
+  color: var(--unrn-soft);
+}
+
+blockquote {
+  background: #faf7f2;
+  border-left: 8px solid var(--unrn-red);
+  color: #55595f;
+  margin: 26px 0;
+  padding: 18px 24px;
+}
+
+pre {
+  background: #fbfbfc;
+  border: 1px solid var(--unrn-line);
+  border-left: 8px solid var(--unrn-navy);
+  border-radius: 0;
+  font-size: 24px;
+  line-height: 1.35;
+  padding: 18px 22px;
+}
+
+code {
+  font-family: "Cascadia Code", "Fira Code", Consolas, monospace;
+}
+
+:not(pre) > code {
+  background: #f4eee7;
+  color: #8f1812;
+  padding: 0 0.18em;
+}
+
+table {
+  border-collapse: collapse;
+  font-size: 24px;
+  width: 100%;
+}
+
+th {
+  background: var(--unrn-navy);
+  color: #fff;
+}
+
+td,
+th {
+  border: 1px solid var(--unrn-line);
+  padding: 10px 14px;
+}
+
+header,
+footer,
+section::after {
+  color: #9097a0;
+  font-family: Aptos, "Segoe UI", Arial, sans-serif;
+  font-size: 18px;
+}
+
+footer {
+  left: 52px;
+  right: 52px;
+}
+
+section.title {
+  background: #fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1280 720'%3E%3Cpolygon points='0,612 1280,259 1280,720 0,720' fill='%2330394f'/%3E%3C/svg%3E") center / 100% 100% no-repeat;
+  color: #626b75;
+  padding: 0;
+}
+
+section.title > h1:first-child {
+  color: var(--unrn-ink);
+  font-size: 70px;
+  left: 72px;
+  margin: 0;
+  position: absolute;
+  right: 72px;
+  text-align: center;
+  top: 86px;
+}
+
+section.title h2 {
+  color: #626b75;
+  font-family: Aptos, "Segoe UI", Arial, sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  line-height: 1.15;
+  margin: 0;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  text-transform: uppercase;
+  top: 224px;
+}
+
+section.title .course {
+  color: #626b75;
+  font-size: 30px;
+  left: 72px;
+  line-height: 1.2;
+  position: absolute;
+  top: 306px;
+}
+
+section.title .meta {
+  bottom: 42px;
+  color: #fff;
+  font-size: 24px;
+  left: 49.5%;
+  line-height: 1.18;
+  position: absolute;
+}
+
+section.title footer {
+  display: none;
+}
+
+.unrn-logo {
+  background: #fff;
+  bottom: 40px;
+  box-sizing: border-box;
+  padding: 0 0 8px;
+  position: absolute;
+  right: 82px;
+  width: 166px;
+}
+
+.unrn-logo img {
+  display: block;
+  width: 100%;
+}
+
+.unrn-logo span {
+  color: #111;
+  display: block;
+  font-size: 19px;
+  letter-spacing: 3px;
+  line-height: 1.05;
+  padding-top: 7px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+section.inverse {
+  background: var(--unrn-navy);
+  color: var(--unrn-soft);
+  padding: 86px 118px;
+}
+
+section.inverse::before {
+  content: none;
+}
+
+section.inverse > h1:first-child {
+  color: #fff;
+  font-size: 78px;
+  left: auto;
+  margin: 0 0 40px;
+  position: relative;
+  right: auto;
+  text-align: center;
+  top: auto;
+}
+
+section.inverse strong,
+section.inverse h2 {
+  color: #fff;
+}
+
+section.compact {
+  font-size: 25px;
+}
+
+section.compact pre {
+  font-size: 20px;
+}
+
+.columns {
+  display: grid;
+  gap: 44px;
+  grid-template-columns: 1fr 1fr;
+}
+
+.columns > * {
+  min-width: 0;
+}
