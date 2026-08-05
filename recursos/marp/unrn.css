@@ -252,6 +252,28 @@ section.inverse::after {
   color: rgba(255, 255, 255, 0.65);
 }
 
+section.with-footnote {
+  padding-bottom: 118px;
+}
+
+section.with-footnote::after {
+  color: rgba(255, 255, 255, 0.65);
+}
+
+.footnote {
+  background: var(--unrn-navy);
+  bottom: 0;
+  box-sizing: border-box;
+  color: rgba(255, 255, 255, 0.88);
+  font-size: 20px;
+  left: 0;
+  line-height: 1.25;
+  min-height: 86px;
+  padding: 24px 86px 22px 52px;
+  position: absolute;
+  right: 0;
+}
+
 section.compact {
   font-size: 25px;
 }

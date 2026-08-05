@@ -35,5 +35,18 @@ http://localhost:8080/clases/clase-14/material/clase-14.md
 - Portada: `<!-- _class: title -->`
 - Separador oscuro o repaso: `<!-- _class: inverse -->`
 - Diapositiva densa con codigo: `<!-- _class: compact -->`
+- Nota al pie con franja azul: `<!-- _class: with-footnote -->`
 
 Para una clase nueva, copiar `clase-template.md`, cambiar el titulo y reemplazar el contenido entre separadores `---`.
+
+Ejemplo de nota al pie:
+
+```md
+<!-- _class: with-footnote -->
+
+# Titulo
+
+Contenido de la diapositiva.
+
+<div class="footnote">Fuente: documentacion oficial de Python.</div>
+```
