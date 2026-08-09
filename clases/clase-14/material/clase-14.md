@@ -174,8 +174,8 @@ Más info en: [PiPy CowSay](https://pypi.org/project/cowsay/)
 # Creando ambiente
 
 1. En un nuevo directorio vamos a crear un ambiente virtual
-2. Copiar desde el repositorio [cliente.py](../recursos/cliente.py) y [requirements_cliente.txt](../recursos/requirements_cliente.txt)
-3. Ejecutar `pip install -r requirements_cliente.txt`
+2. Copiar desde el repositorio [cliente.py](../recursos/cliente.py) y [cliente_requirements.txt](../recursos/cliente_requirements.txt)
+3. Ejecutar `pip install -r cliente_requirements.txt`
 
 
 ---
