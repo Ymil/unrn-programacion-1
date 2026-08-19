@@ -1,0 +1,12 @@
+1023;Avenida Cabildo;Juramento;Belgrano;13;2019
+1058;Avenida Rivadavia;Medrano;Almagro;5;2021
+1102;Avenida San Juan;Boedo;Boedo;5;2018
+1187;Avenida Callao;Corrientes;San Nicolas;1;2020
+1204;Avenida Directorio;Carabobo;Flores;7;2017
+1215;Avenida Corrientes;Jean Jaures;Balvanera;3;2016
+1248;Avenida Entre Rios;Independencia;Monserrat;1;2019
+1301;Avenida La Plata;Rivadavia;Caballito;6;2018
+1319;Avenida Triunvirato;Monroe;Villa Urquiza;12;2023
+1354;Avenida Nazca;Avellaneda;Flores;7;2020
+1407;Avenida Caseros;Jujuy;Parque Patricios;4;2015
+12A0;Avenida Santa Fe;Pueyrredon;Recoleta;2;2022

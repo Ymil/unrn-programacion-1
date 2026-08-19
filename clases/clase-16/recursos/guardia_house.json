@@ -1,0 +1,23 @@
+{
+  "guardia": "Hospital Princeton-Plainsboro",
+  "pacientes": [
+    {
+      "nombre": "Rachel Greene",
+      "sintoma": "fiebre",
+      "prioridad": "alta",
+      "internado": true
+    },
+    {
+      "nombre": "Jesse Pinkman",
+      "sintoma": "tos",
+      "prioridad": "media",
+      "internado": false
+    },
+    {
+      "nombre": "Glenn Rhee",
+      "sintoma": "mareos",
+      "prioridad": "alta",
+      "internado": true
+    }
+  ]
+}
