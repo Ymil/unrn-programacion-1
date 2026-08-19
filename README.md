@@ -43,6 +43,7 @@ Acá se va a publicar, clase a clase:
 - [Clase 12](./clases/clase-12/)
 - [Clase 13](./clases/clase-13/)
 - [Clase 14](./clases/clase-14/)
+- [Clase 15](./clases/clase-15/)
 
 ## Ejercicios
 
@@ -55,6 +56,9 @@ Acá se va a publicar, clase a clase:
 - [Mini TP 6 - Ejercicios intermedios e integradores](./clases/clase-09/recursos/mini_tp_6_programacion_1.md)
 - [Mini TP 7 - Validacion y manipulacion de datos **OBLIGATORIO**](./clases/clase-11/recursos/mini_tp_7_validacion_y_manipulacion.md)
 - [TP 8 - Diccionarios y archivos **OBLIGATORIO**](./clases/clase-12/recursos/TP_8_Diccionarios_archivos.md)
+- [Trabajo Integrador 1 - Parte 1: Conversor TXT a JSON](./recursos/trabajo-integrador-1/parte-1-conversor-txt-json.md)
+- [Trabajo Integrador 1 - Parte 2: App web](./recursos/trabajo-integrador-1/parte-2-app-web.md)
+
 
 ## Sugerencia de uso
 
