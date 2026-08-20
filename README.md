@@ -57,7 +57,10 @@ Acá se va a publicar, clase a clase:
 - [Mini TP 6 - Ejercicios intermedios e integradores](./clases/clase-09/recursos/mini_tp_6_programacion_1.md)
 - [Mini TP 7 - Validacion y manipulacion de datos **OBLIGATORIO**](./clases/clase-11/recursos/mini_tp_7_validacion_y_manipulacion.md)
 - [TP 8 - Diccionarios y archivos **OBLIGATORIO**](./clases/clase-12/recursos/TP_8_Diccionarios_archivos.md)
-- [Trabajo Integrador 1 - Parte 1: Conversor TXT a JSON](./recursos/trabajo-integrador-1/parte-1-conversor-txt-json.md)
+
+## Trabajos practicos integradores
+
+- [Trabajo Integrador 1 - Parte 1: Conversor TXT a JSON](./trabajos-practicos/tpi1-1_conversor-txt-json.pdf)
 
 
 ## Sugerencia de uso
