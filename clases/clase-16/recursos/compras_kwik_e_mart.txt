@@ -1,0 +1,6 @@
+Homero;Rosquillas;3;1200
+Marge;Cafe;2;850
+Bart;Buzz Cola;5;700
+Lisa;Rosquillas;1;1200
+Maggie;Chupetin;2;abc
+Ned Flanders;Pan lactal;1;1600
