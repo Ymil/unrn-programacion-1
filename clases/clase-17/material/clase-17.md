@@ -475,7 +475,7 @@ def sumador(anterior, siguiente):
     if siguiente < anterior:
         raise ValueError(f"El numero siguiente no puede ser más chico que el anterior")
     else:
-        print(siguiente + anterior)
+        return siguiente + anterior
 ```
 
 ---
