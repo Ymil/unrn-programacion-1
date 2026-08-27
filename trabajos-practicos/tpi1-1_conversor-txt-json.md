@@ -29,6 +29,8 @@ Los datos salen de archivos públicos del Servicio Meteorológico Nacional:
 
 <https://www.smn.gob.ar/descarga-de-datos>
 
+![alt text](screenshot-archivo-descarga.png)
+
 Formato general:
 
 ```text
@@ -38,6 +40,7 @@ FECHA     HORA  TEMP   HUM   PNM    DD    FF     NOMBRE
 ```
 
 El nombre de la estación puede tener más de una palabra. El archivo puede incluir encabezados, líneas vacías y registros incompletos o inválidos.
+
 
 ## Comando esperado
 
@@ -52,8 +55,14 @@ El programa debe:
 - recibir por argumento la ruta del TXT de entrada y la ruta del JSON de salida;
 - recorrer el TXT completo, ignorar encabezados y líneas vacías, y validar cada registro sin detenerse ante el primer error;
 - separar los registros válidos de los inválidos, guardando en los inválidos la línea original y una explicación breve del error;
-- generar un JSON válido, con la estructura elegida por el grupo, información general del procesamiento, registros válidos y registros inválidos;
-- mostrar al finalizar un resumen con cantidades leídas, válidas e inválidas;
+- generar un JSON válido, con una estructura definida y documentada. El json debe contener:
+    - Información general del procesamiento: 
+        - cantidad de registros
+        - cantidad de registros validos
+        - cantidad de registros invalidos.
+    - Registros válidos
+    - Registros invalidos con su linea original.
+- mostrar al finalizar el programa un resumen con cantidades leídas, válidas e inválidas;
 - manejar errores de argumentos, lectura y escritura con mensajes claros;
 - dividir el programa en funciones y al menos dos módulos: programa principal y módulo de validaciones.
 
@@ -73,14 +82,14 @@ El proyecto debe incluir un `README.md` con una descripción breve, instruccione
 
 ## Entregables
 
-### Primera entrega: viernes 28/08/2026
+### Primera entrega: lunes 31/08/2026
 
 - `README.md` con información básica del proyecto, grupo, participantes y forma de ejecución prevista.
 - Documentación de la estructura de JSON de salida elegida por el grupo.
 - Implementación inicial del parseo del TXT recibido por argumento de línea de comandos.
 - Implementación inicial del módulo de validaciones.
 
-### Segunda entrega: viernes 04/09/2026
+### Segunda entrega: lunes 07/09/2026
 
 - Escritura del archivo JSON, tomando el nombre del archivo de salida desde `sys.argv`.
 - Validaciones completas del archivo de entrada.
