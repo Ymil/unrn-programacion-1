@@ -69,6 +69,25 @@ Trabajamos directamente sobre `main`.
 
 <!-- _class: compact -->
 
+# Configuración inicial
+
+Una vez dentro del repositorio:
+
+```bash
+git branch --set-upstream-to=origin/main main
+git config pull.rebase true
+```
+
+Nuestra rama `main` se sincroniza con `origin/main`.
+
+`origin/main` es la rama `main` que viene de GitHub.
+
+`git pull` ya sabe cómo traer y acomodar cambios del grupo.
+
+---
+
+<!-- _class: compact -->
+
 # Flujo recomendado
 
 ```bash
@@ -84,8 +103,6 @@ git commit -m "Agrega lectura de sensores"
 git pull
 git push
 ```
-
-`pull` antes de empezar trae cambios del grupo.
 
 `pull` antes de `push` evita subir desde una version vieja.
 
@@ -124,9 +141,11 @@ repositorio-tp/
 | Bruno | `bruno.txt` | `Agrega avance de Bruno` |
 | Camila | `camila.txt` | `Agrega avance de Camila` |
 
-Si modificamos solo nuestro propio archivo, git integra sin problemas.
+Aunque cada persona toque su archivo, el `push` puede rechazarse si alguien subió antes.
 
-Si dos personas tocamos el mismo archivo y el mismo bloque de codigo vamos a tener conflictos.
+En ese caso hacemos `git pull`; Git suele resolver solo si son archivos distintos.
+
+Los conflictos aparecen cuando dos cambios pisan el mismo lugar.
 
 ---
 
@@ -146,35 +165,37 @@ hint: Updates were rejected because the remote contains work
 
 Git no deja pisar cambios que Y todavía no tiene.
 
-Primero necesita sincronizar:
+Necesita sincronizar:
 
 ```bash
 git pull
-git push
 ```
+
 
 ---
 
 <!-- _class: compact -->
 
-# Conflicto de merge
+# Cuando el `pull` se complica
 
-Un conflicto ocurre cuando Git encuentra cambios incompatibles en el mismo lugar y no puede decidir automáticamente cuál conservar.
+A veces Git no puede decidir solo cómo juntar los cambios.
 
 ```text
 <<<<<<< HEAD
-Mensaje escrito por X.
+Mensaje que vino de GitHub.
 =======
-Mensaje escrito por Y.
->>>>>>> origin/main
+Mensaje que escribí yo.
+>>>>>>> abc1234 (mi cambio)
 ```
+
+En este caso, arriba está lo que llegó de GitHub y abajo está mi cambio local.
 
 Para resolverlo:
 
-1. Tenemos que editar el archivo;
-2. dejar el texto final;
+1. Revisar con `git status`;
+2. editar el archivo y dejar la versión final;
 3. borrar las marcas `<<<<<<<`, `=======`, `>>>>>>>`;
-4. hacer `add`, `commit` y `push`.
+4. ejecutar `git add archivo`, `git rebase --continue` y `git push`.
 
 ---
 
@@ -182,14 +203,17 @@ Para resolverlo:
 
 # Ejercicio grupal masivo
 
-Vamos a clonar todos el repositorio.
-Crear un archivo con nuestro nombre y subirlo nuevamente.
-
 ```bash
 # si todavia no tengo el repo:
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/Ymil/unrn-programacion-1-repo-compartido.git
 
-# si ya lo tengo:
+# entro a la carpeta del repo:
+cd unrn-programacion-1-repo-compartido
+
+# configuración inicial:
+git switch main
+git branch --set-upstream-to=origin/main main
+git config pull.rebase true
 git pull
 
 # editar mi_nombre.txt
@@ -206,7 +230,7 @@ git push
 
 # Segunda etapa
 
-Vamos a modificar masivamente el archivo mensaje.txt
+Vamos a modificar masivamente la misma línea de `mensaje.txt`.
 
 **Git permite trabajar en conjunto, pero no reemplaza la coordinación del equipo.**
 
