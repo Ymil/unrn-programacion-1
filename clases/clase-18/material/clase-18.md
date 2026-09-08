@@ -69,6 +69,36 @@ Trabajamos directamente sobre `main`.
 
 <!-- _class: compact -->
 
+# Clonar el repositorio
+
+Siempre que trabajemos con un repositorio, lo primero que tenemos que hacer es clonarlo.
+
+```bash
+git clone https://github.com/Ymil/unrn-programacion-1-repo-compartido.git
+cd unrn-programacion-1-repo-compartido
+```
+
+`git clone` crea una copia local del repositorio remoto.
+
+---
+
+<!-- _class: compact -->
+
+# Configurar nuestra identidad en Git
+
+Antes del primer commit, configuramos quién firma nuestros cambios:
+
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+```
+
+La configuración global se realiza una sola vez para cada usuario de la computadora.
+
+---
+
+<!-- _class: compact -->
+
 # Configuración inicial
 
 Una vez dentro del repositorio:
@@ -243,3 +273,18 @@ pull → acordar quién modifica qué → trabajar → add → commit → pull �
 ```
 
 Después de este ejercicio, cada grupo pasa a trabajar en el repositorio de su TP Integrador.
+
+---
+
+<!-- _class: compact -->
+
+# Anexo: un `.gitignore` mínimo
+
+En la raíz del repositorio creamos un archivo llamado `.gitignore`:
+
+```gitignore
+*.pyc
+.venv
+```
+
+Así Git ignora los archivos compilados que Python puede generar al ejecutar el programa.
