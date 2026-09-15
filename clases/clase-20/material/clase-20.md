@@ -410,3 +410,26 @@ El programa debe:
 
 </div>
 </div>
+
+
+---
+
+<!-- _class: compact -->
+
+# Trabajo Práctico Integrador: cambio de alcance
+
+[Retomen el conversor de TXT a JSON de la Parte 1](../../trabajos-practicos/tpi1-1_conversor-txt-json.md).
+
+
+Modifiquen el programa para que:
+
+1. las rutas recibidas por línea de comandos se representen con `Path`;
+2. la entrada exista y sea un archivo;
+3. la salida exista y sea un directorio;
+4. el JSON se guarde sin sobrescribir otro archivo como `mediciones-AAAAMMDD-HHMMSS.json`, usando la fecha y hora de generación.
+
+El programa debe informar la ruta del JSON generado.
+
+```bash
+python adaptar_datos.py datos/observaciones.txt salida
+```

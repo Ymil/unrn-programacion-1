@@ -98,6 +98,22 @@ El proyecto debe incluir un `README.md` con una descripción breve, instruccione
 - `README.md` completo, con instalación o preparación, comandos de ejecución, archivos de entrada y salida, y formato del JSON generado.
 - Ejecución demostrable de punta a punta: TXT de entrada, JSON generado y resumen final por consola.
 
+### Parte 3: cambio de alcance 1
+
+A partir de lo visto en la clase numero 20, se debe remplazar el segundo argumento del programa por el nombre de una carpeta: el programa debe recibir la ruta del TXT de entrada y la ruta de un directorio de salida.
+
+```bash
+python adaptar_datos.py datos/observaciones.txt salida
+```
+
+El programa debe:
+
+- representar con `Path` las rutas recibidas por línea de comandos;
+- verificar que la entrada exista y sea un archivo;
+- verificar que la salida exista y sea un directorio;
+- guardar el JSON sin sobrescribir otro archivo con el nombre `mediciones-AAAAMMDD-HHMMSS.json`, usando la fecha y hora de generación;
+- informar por consola la ruta del JSON generado.
+
 ## Prolijidad de la entrega
 
 La entrega debe estar ordenada: archivos con nombres claros, carpetas simples, sin archivos duplicados o que no se usen, y con instrucciones suficientes para ejecutar el proyecto desde cero.
@@ -111,3 +127,4 @@ La entrega debe estar ordenada: archivos con nombres claros, carpetas simples, s
 - [Clase 16 - JSON en Python](../clases/clase-16/): escritura del archivo JSON con `json.dump()`.
 - [Clase 17 - Manejo básico de excepciones](../clases/clase-17/): manejo de errores de argumentos, lectura y escritura.
 - [Clase 19 - Fechas y horas con `datetime`](../clases/clase-19/): validación de fechas del archivo del SMN.
+- [Clase 20 - Rutas y `pathlib`](../clases/clase-20/): representación, validación y construcción de rutas con `Path`.
