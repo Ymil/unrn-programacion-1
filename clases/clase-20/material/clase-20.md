@@ -400,11 +400,13 @@ Crear un programa `main.py` que use `Path` para representar `archivos_simpsons`.
 
 El programa debe:
 
-1. mostrar la ruta absoluta con `resolve()`;
+1. mostrar la ruta absoluta;
 2. recorrer el contenido de la carpeta actual;
 3. indicar el nombre y si cada elemento es archivo o directorio;
 4. mostrar la extensión de cada archivo.
 4. Si el elemento es un directorio, mostrar su contenido;
+    - Repetir el flujo desde el punto 1.
+    - **Si encontramos otro directorio se vuelve a repetir**.
 
 </div>
 </div>
