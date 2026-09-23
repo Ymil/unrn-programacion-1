@@ -28,7 +28,9 @@ Universidad Nacional de Río Negro
   <span>UNIVERSIDAD<br>NACIONAL</span>
 </div>
 
-https://github.com/Ymil/unrn-programacion-1/tree/main/clases/clase-22
+<div>
+Link al repositorio: https://github.com/Ymil/unrn-programacion-1/
+</div>
 
 ---
 
@@ -51,6 +53,7 @@ import pandas as pd
 
 df = pd.read_csv("SimpsonsData_es.csv")
 ```
+> Archivo [SimpsonsData_es.csv](https://github.com/Ymil/unrn-programacion-1/blob/main/clases/clase-22/SimpsonsData_es.csv)
 
 ---
 
@@ -112,7 +115,7 @@ En este caso permite conocer cuántos episodios contiene cada temporada.
 
 # Ejercicio 3 — Preparar un resumen
 
-En un nuevo notebook, leyendo el archivo `data.csv`, preparar un resumen de `actividades` que contenga:
+En un nuevo notebook, leyendo el archivo [`data.csv`](https://github.com/Ymil/unrn-programacion-1/blob/main/clases/clase-21/recursos/data.csv), preparar un resumen de `actividades` que contenga:
 
 - los cinco registros con mayor `Maxpulse`, mostrando `Date`, `Pulse`, `Maxpulse` y `Calories`;
     - Guardar en nuevo dataframe
