@@ -14,7 +14,7 @@ Este repositorio es el espacio central de la cursada para compartir clases, acti
 | Ítem | Información |
 |---|---|
 | Comisión | 3 |
-| Día y horario | Miércoles de 17:00 a 21:00 |
+| Día y horario | Martes y miércoles de 17:00 a 19:00 |
 | Docente | Lautaro Linquimán |
 
 ## Sobre este repositorio
@@ -47,6 +47,10 @@ Acá se va a publicar, clase a clase:
 - [Clase 16 - JSON en Python](./clases/clase-16/)
 - [Clase 17 - Manejo básico de excepciones](./clases/clase-17/)
 - [Clase 18 - Trabajo colaborativo con Git](./clases/clase-18/)
+- [Clase 19 - Fechas y horas con datetime](./clases/clase-19/)
+- [Clase 20 - Rutas y pathlib](./clases/clase-20/)
+- [Clase 21 - Introducción a Pandas](./clases/clase-21/)
+- [Clase 22 - Pandas: analizar y transformar](./clases/clase-22/)
 
 ## Ejercicios
 
