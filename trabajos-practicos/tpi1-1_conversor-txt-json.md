@@ -60,7 +60,7 @@ El programa debe:
         - cantidad de registros
         - cantidad de registros validos
         - cantidad de registros invalidos.
-    - Registros válidos
+    - Registros válidos separados por medición.
     - Registros invalidos con su linea original.
 - mostrar al finalizar el programa un resumen con cantidades leídas, válidas e inválidas;
 - manejar errores de argumentos, lectura y escritura con mensajes claros;
