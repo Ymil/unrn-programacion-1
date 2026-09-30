@@ -51,6 +51,7 @@ Acá se va a publicar, clase a clase:
 - [Clase 20 - Rutas y pathlib](./clases/clase-20/)
 - [Clase 21 - Introducción a Pandas](./clases/clase-21/)
 - [Clase 22 - Pandas: analizar y transformar](./clases/clase-22/)
+- [Clase 23 - Introducción a matplotlib](./clases/clase-23/material/clase-23.md)
 
 ## Ejercicios
 
@@ -66,7 +67,8 @@ Acá se va a publicar, clase a clase:
 
 ## Trabajos practicos integradores
 
-- [Trabajo Integrador 1 - Parte 1: Conversor TXT a JSON](./trabajos-practicos/tpi1-1_conversor-txt-json.pdf)
+- [Trabajo Integrador 1 - Parte 1: Conversor TXT a JSON](./trabajos-practicos/tpi1-1_conversor-txt-json.md)
+- [Trabajo Integrador 1 - Parte 2: Aplicación web](./trabajos-practicos/tpi1-2-analisis-app-web.md)
 
 
 ## Sugerencia de uso
