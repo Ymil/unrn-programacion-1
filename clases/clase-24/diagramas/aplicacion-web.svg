@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1150" height="250" viewBox="0 0 1150 250" role="img" aria-labelledby="title desc">
+  <title id="title">Una aplicación web habitual</title>
+  <desc id="desc">El navegador usa HTML para el contenido, CSS para la apariencia y JavaScript para la interacción. Se comunica en ambos sentidos con la aplicación de un servidor, que ejecuta lógica y trabaja con datos.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b9130d"/></marker>
+  </defs>
+  <g font-family="Arial, sans-serif" font-size="24" fill="#30394f">
+    <rect x="10" y="10" width="420" height="225" rx="8" fill="#faf7f2" stroke="#d9dde3" stroke-width="2"/>
+    <rect x="720" y="10" width="420" height="225" rx="8" fill="#faf7f2" stroke="#d9dde3" stroke-width="2"/>
+    <text x="35" y="51" font-size="30" font-weight="bold">Navegador</text>
+    <text x="35" y="100">HTML: contenido</text>
+    <text x="35" y="143">CSS: apariencia</text>
+    <text x="35" y="186">JavaScript: interacción</text>
+    <text x="745" y="51" font-size="30" font-weight="bold">Aplicación / servidor</text>
+    <text x="745" y="100">Ejecuta la lógica.</text>
+    <text x="745" y="143">Trabaja con los datos.</text>
+    <text x="745" y="195" font-weight="bold">Por ejemplo, Python.</text>
+    <path d="M 455 133 H 695" fill="none" stroke="#b9130d" stroke-width="4" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+    <text x="575" y="105" text-anchor="middle" font-size="22">Comunicación</text>
+  </g>
+</svg>

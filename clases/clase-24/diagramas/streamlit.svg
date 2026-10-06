@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1150" height="235" viewBox="0 0 1150 235" role="img" aria-labelledby="title desc">
+  <title id="title">Del archivo Python a la interfaz web</title>
+  <desc id="desc">Streamlit ejecuta el código de app.py y construye la página del navegador. Las acciones en la interfaz se comunican a Streamlit.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b9130d"/></marker>
+  </defs>
+  <g font-family="Arial, sans-serif" font-size="25" text-anchor="middle" fill="#30394f">
+    <rect x="10" y="35" width="270" height="140" rx="8" fill="#faf7f2" stroke="#d9dde3" stroke-width="2"/>
+    <rect x="415" y="35" width="285" height="140" rx="8" fill="#30394f"/>
+    <rect x="850" y="35" width="290" height="140" rx="8" fill="#faf7f2" stroke="#d9dde3" stroke-width="2"/>
+    <text x="145" y="90" font-size="32" font-weight="bold">app.py</text>
+    <text x="145" y="136">Código Python</text>
+    <text x="557" y="90" fill="#fff" font-size="32" font-weight="bold">Streamlit</text>
+    <text x="557" y="136" fill="#ead9c4">Ejecuta el programa</text>
+    <text x="995" y="90" font-size="32" font-weight="bold">Navegador</text>
+    <text x="995" y="136">Muestra la interfaz</text>
+    <path d="M 294 105 H 400" fill="none" stroke="#b9130d" stroke-width="4" marker-end="url(#arrow)"/>
+    <path d="M 715 105 H 835" fill="none" stroke="#b9130d" stroke-width="4" marker-end="url(#arrow)"/>
+    <path d="M 995 183 V 211 H 557 V 184" fill="none" stroke="#b9130d" stroke-width="3" marker-end="url(#arrow)"/>
+    <text x="778" y="198" font-size="21">Acciones del usuario</text>
+  </g>
+</svg>
