@@ -52,6 +52,7 @@ Acá se va a publicar, clase a clase:
 - [Clase 21 - Introducción a Pandas](./clases/clase-21/)
 - [Clase 22 - Pandas: analizar y transformar](./clases/clase-22/)
 - [Clase 23 - Introducción a matplotlib](./clases/clase-23/material/clase-23.md)
+- [Clase 24 - Introducción a streamlit](./clases/clase-24/clase-24.md)
 
 ## Ejercicios
 
