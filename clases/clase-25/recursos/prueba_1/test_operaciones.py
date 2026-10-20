@@ -14,4 +14,4 @@ def test_sumar_invalido():
     Caso invalido
     """
     with pytest.raises(ValueError):
-        sumar(1, 1)
+        sumar(-1, 1)
