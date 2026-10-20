@@ -120,11 +120,11 @@ La entrega debe estar ordenada: archivos con nombres claros, carpetas simples, s
 
 ## Clases relevantes
 
-- [Clase 5 - Funciones y módulos](../clases/clase-05/): división del programa en funciones y módulos.
-- [Clase 10 - Archivos](../clases/clase-10/): lectura y escritura de archivos de texto.
-- [Clase 11 - Validación y manipulación de datos](../clases/clase-11/): validaciones sobre entradas y estructuras.
-- [Clase 15 - Terminal y argumentos](../clases/clase-15/): uso de `sys.argv` y rutas recibidas por consola.
-- [Clase 16 - JSON en Python](../clases/clase-16/): escritura del archivo JSON con `json.dump()`.
-- [Clase 17 - Manejo básico de excepciones](../clases/clase-17/): manejo de errores de argumentos, lectura y escritura.
-- [Clase 19 - Fechas y horas con `datetime`](../clases/clase-19/): validación de fechas del archivo del SMN.
-- [Clase 20 - Rutas y `pathlib`](../clases/clase-20/): representación, validación y construcción de rutas con `Path`.
+- [Clase 5 - Funciones y módulos](../../clases/clase-05/): división del programa en funciones y módulos.
+- [Clase 10 - Archivos](../../clases/clase-10/): lectura y escritura de archivos de texto.
+- [Clase 11 - Validación y manipulación de datos](../../clases/clase-11/): validaciones sobre entradas y estructuras.
+- [Clase 15 - Terminal y argumentos](../../clases/clase-15/): uso de `sys.argv` y rutas recibidas por consola.
+- [Clase 16 - JSON en Python](../../clases/clase-16/): escritura del archivo JSON con `json.dump()`.
+- [Clase 17 - Manejo básico de excepciones](../../clases/clase-17/): manejo de errores de argumentos, lectura y escritura.
+- [Clase 19 - Fechas y horas con `datetime`](../../clases/clase-19/): validación de fechas del archivo del SMN.
+- [Clase 20 - Rutas y `pathlib`](../../clases/clase-20/): representación, validación y construcción de rutas con `Path`.

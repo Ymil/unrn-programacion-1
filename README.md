@@ -68,8 +68,8 @@ Acá se va a publicar, clase a clase:
 
 ## Trabajos practicos integradores
 
-- [Trabajo Integrador 1 - Parte 1: Conversor TXT a JSON](./trabajos-practicos/tpi1-1_conversor-txt-json.md)
-- [Trabajo Integrador 1 - Parte 2: Aplicación web](./trabajos-practicos/tpi1-2-analisis-app-web.md)
+- [Trabajo Integrador 1 - Parte 1: Conversor TXT a JSON](./trabajos-practicos/trabajo-practico-1/tpi1-1_conversor-txt-json.md)
+- [Trabajo Integrador 1 - Parte 2: Aplicación web](./trabajos-practicos/trabajo-practico-1/tpi1-2-analisis-app-web.md)
 
 
 ## Sugerencia de uso

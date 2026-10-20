@@ -418,7 +418,7 @@ El programa debe:
 
 # Trabajo Práctico Integrador: cambio de alcance
 
-[Retomen el conversor de TXT a JSON de la Parte 1](../../trabajos-practicos/tpi1-1_conversor-txt-json.md).
+[Retomen el conversor de TXT a JSON de la Parte 1](../../../trabajos-practicos/trabajo-practico-1/tpi1-1_conversor-txt-json.md).
 
 
 Modifiquen el programa para que:
