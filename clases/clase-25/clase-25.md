@@ -209,13 +209,13 @@ Cuando una comprobación falla, informa en qué prueba ocurrió y muestra los va
 Si todavía no está instalado:
 
 ```bash
-python -m pip install pytest
+pip install pytest
 ```
 
 Verificar la instalación:
 
 ```bash
-python -m pytest --version
+pytest --version
 ```
 
 ---
@@ -263,7 +263,7 @@ def test_sumar_dos_positivos():
 Desde la carpeta `proyecto/`:
 
 ```bash
-python -m pytest
+pytest
 ```
 
 ```text
@@ -303,7 +303,7 @@ def test_sumar_dos_positivos():
 Ejecutamos otra vez:
 
 ```bash
-python -m pytest
+pytest
 ```
 
 La función sigue devolviendo `5`, pero la prueba espera `6`. Uno de los dos comportamientos debe corregirse.
@@ -433,10 +433,12 @@ No estamos “evitando” el error: estamos comprobando que la función rechace 
 
 ---
 
-<!-- _class: inverse -->
+<!-- _class: inverse compact -->
 
 # Ejercicio 1: nivel de batería
 
+<div class="columns">
+<div>
 Escriban la función `clasificar_nivel_bateria(porcentaje)` en `bateria.py`. Debe recibir un porcentaje entero y devolver:
 
 - `"baja"` entre 0 y 20 inclusive;
@@ -445,10 +447,8 @@ Escriban la función `clasificar_nivel_bateria(porcentaje)` en `bateria.py`. Deb
 - produce `ValueError` fuera del rango de 0 a 100.
     - `raise ValueError("El porcentaje debe estar entre 0 y 100")`
 
----
-
-# Ejercicio 1: diseñar los casos
-
+</div>
+<div>
 Antes de escribir las pruebas, escriban los tipos de casos que cubran los distintos comportamientos, por ejemplo:
 
 - Normal para bajo, medio y alto
@@ -457,7 +457,9 @@ Antes de escribir las pruebas, escriban los tipos de casos que cubran los distin
 
 Luego crear `test_bateria.py` implementando los casos.
 
-Ejecuten `python -m pytest` y usen el reporte para corregir el código o la expectativa que no coincida con el comportamiento acordado.
+Ejecuten `pytest` y usen el reporte para corregir el código o la expectativa que no coincida con el comportamiento acordado.
+</div>
+</div>
 
 ---
 
@@ -471,13 +473,13 @@ La **cobertura** indica qué parte del código fue ejecutada mientras corrían l
 Instalar el complemento `pytest-cov`:
 
 ```bash
-python -m pip install pytest-cov
+pip install pytest-cov
 ```
 
 Ejecutar las pruebas y generar un reporte HTML:
 
 ```bash
-python -m pytest --cov=. --cov-report=html
+pytest --cov=. --cov-report=html
 ```
 
 - `--cov=.` mide los archivos Python de la carpeta actual.
@@ -520,7 +522,7 @@ El objetivo es incorporar pruebas automáticas al Proyecto Integrador para verif
 1. Elijan al menos dos funciones existentes.
 2. Para cada una escriban un caso normal, uno límite y, cuando corresponda, uno inválido.
 3. Guarden las pruebas en uno o más archivos `test_*.py`.
-4. Agreguen `pytest` al `requirements.txt` y ejecuten `python -m pytest`.
+4. Agreguen `pytest` al `requirements.txt` y ejecuten `pytest`.
 
 Usen datos pequeños y resultados esperados fáciles de revisar.
 
