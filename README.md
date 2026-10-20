@@ -70,6 +70,7 @@ Acá se va a publicar, clase a clase:
 
 - [Trabajo Integrador 1 - Parte 1: Conversor TXT a JSON](./trabajos-practicos/trabajo-practico-1/tpi1-1_conversor-txt-json.md)
 - [Trabajo Integrador 1 - Parte 2: Aplicación web](./trabajos-practicos/trabajo-practico-1/tpi1-2-analisis-app-web.md)
+- [Trabajo Integrador 2 - Parte 1: Siguiendo satélites](./trabajos-practicos/trabajo-practico-2/tpi2-siguiendo-satelites.md)
 
 
 ## Sugerencia de uso
