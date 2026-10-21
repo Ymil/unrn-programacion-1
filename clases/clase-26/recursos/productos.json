@@ -1,0 +1,62 @@
+[
+    {
+        "nombre": "Yerba mate 1 kg",
+        "precio": 4800,
+        "stock": 14,
+        "stock_minimo": 6
+    },
+    {
+        "nombre": "Azúcar 1 kg",
+        "precio": 1300,
+        "stock": 3,
+        "stock_minimo": 8
+    },
+    {
+        "nombre": "Dulce de leche 400 g",
+        "precio": 2100,
+        "stock": 9,
+        "stock_minimo": 5
+    },
+    {
+        "nombre": "Galletitas de agua",
+        "precio": 950,
+        "stock": 0,
+        "stock_minimo": 10
+    },
+    {
+        "nombre": "Fideos tirabuzón 500 g",
+        "precio": 1150,
+        "stock": 22,
+        "stock_minimo": 10
+    },
+    {
+        "nombre": "Aceite de girasol 900 ml",
+        "precio": 2600,
+        "stock": 5,
+        "stock_minimo": 5
+    },
+    {
+        "nombre": "Harina 000 1 kg",
+        "precio": 900,
+        "stock": 18,
+        "stock_minimo": 8
+    },
+    {
+        "nombre": "Arroz largo fino 1 kg",
+        "precio": 1700,
+        "stock": 2,
+        "stock_minimo": 6
+    },
+    {
+        "nombre": "Tomate triturado 520 g",
+        "precio": 1050,
+        "stock": 11,
+        "stock_minimo": 6
+    },
+    {
+        "nombre": "Café molido 250 g",
+        "precio": 5200,
+        "stock": 4,
+        "stock_minimo": 3
+    }
+]

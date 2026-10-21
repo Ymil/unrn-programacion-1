@@ -54,6 +54,7 @@ Acá se va a publicar, clase a clase:
 - [Clase 23 - Introducción a matplotlib](./clases/clase-23/material/clase-23.md)
 - [Clase 24 - Introducción a streamlit](./clases/clase-24/clase-24.md)
 - [Clase 25 - Pruebas unitarias con `pytest`](./clases/clase-25/clase-25.md)
+- [Clase 26 - Introducción a la programación orientada a objetos](./clases/clase-26/clase-26.md)
 
 ## Ejercicios
 
