@@ -1,0 +1,81 @@
+{
+    "deposito": "Puhelche Sur",
+    "contenido": [
+        {
+            "tipo": "contenedor",
+            "nombre": "Contenedor 1",
+            "contenido": [
+                {
+                    "tipo": "caja",
+                    "nombre": "Caja H",
+                    "contenido": [
+                        {
+                            "tipo": "producto",
+                            "producto": "jugo",
+                            "cantidad": 7
+                        },
+                        {
+                            "tipo": "producto",
+                            "producto": "agua",
+                            "cantidad": 16
+                        }
+                    ]
+                },
+                {
+                    "tipo": "caja",
+                    "nombre": "Caja I",
+                    "contenido": []
+                }
+            ]
+        },
+        {
+            "tipo": "caja",
+            "nombre": "Caja J",
+            "contenido": [
+                {
+                    "tipo": "caja",
+                    "nombre": "Caja K",
+                    "contenido": [
+                        {
+                            "tipo": "producto",
+                            "producto": "jugo",
+                            "cantidad": 14
+                        }
+                    ]
+                },
+                {
+                    "tipo": "producto",
+                    "producto": "gaseosa",
+                    "cantidad": 12
+                }
+            ]
+        },
+        {
+            "tipo": "producto",
+            "producto": "jugo",
+            "cantidad": 8
+        },
+        {
+            "tipo": "contenedor",
+            "nombre": "Contenedor 3",
+            "contenido": [
+                {
+                    "tipo": "contenedor",
+                    "nombre": "Contenedor 6",
+                    "contenido": [
+                        {
+                            "tipo": "producto",
+                            "producto": "jugo",
+                            "cantidad": 12
+                        },
+                        {
+                            "tipo": "producto",
+                            "producto": "galletitas",
+                            "cantidad": 20
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
