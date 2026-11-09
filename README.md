@@ -55,6 +55,8 @@ Acá se va a publicar, clase a clase:
 - [Clase 24 - Introducción a streamlit](./clases/clase-24/clase-24.md)
 - [Clase 25 - Pruebas unitarias con `pytest`](./clases/clase-25/clase-25.md)
 - [Clase 26 - Introducción a la programación orientada a objetos](./clases/clase-26/clase-26.md)
+- [Clase 27 - POO: Herencia y polimorfismo](./clases/clase-27/clase-27.md)
+- [Clase 28 - Recursividad](./clases/clase-28/clase-28.md)
 
 ## Ejercicios
 
