@@ -57,6 +57,7 @@ Acá se va a publicar, clase a clase:
 - [Clase 26 - Introducción a la programación orientada a objetos](./clases/clase-26/clase-26.md)
 - [Clase 27 - POO: Herencia y polimorfismo](./clases/clase-27/clase-27.md)
 - [Clase 28 - Recursividad](./clases/clase-28/clase-28.md)
+- [Clase 29 - Uso del debugger](./clases/clase-29/material/clase-29.md)
 
 ## Ejercicios
 
