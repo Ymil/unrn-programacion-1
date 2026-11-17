@@ -181,6 +181,6 @@ La entrega debe estar ordenada: archivos con nombres claros, sin archivos duplic
 - [Clase 15 - Terminal y argumentos](../../clases/clase-15/): uso y validación de `sys.argv`.
 - [Clase 16 - JSON en Python](../../clases/clase-16/): lectura del archivo de entrada.
 - [Clase 17 - Manejo básico de excepciones](../../clases/clase-17/): descartar registros inválidos sin detener el programa.
-- [Clase 25 - Testing básico con `pytest`](../../clases/clase-25/material/clase-25.md): pruebas con datos válidos e inválidos.
-- [Clase 26 - Introducción a la POO](../../clases/clase-26/material/clase-26.md): clases, instancias, atributos y métodos.
+- [Clase 25 - Testing básico con `pytest`](../../clases/clase-25/clase-25.md): pruebas con datos válidos e inválidos.
+- [Clase 26 - Introducción a la POO](../../clases/clase-26/clase-26.md): clases, instancias, atributos y métodos.
 - [Clase 29 - Debugging en VS Code](../../clases/clase-29/material/clase-29.md): seguir la ejecución cuando un valor no coincide.
